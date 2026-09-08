@@ -22,4 +22,3 @@ print(sum(items))
 ## Result
 Thus the program executed successfully.
 
-## Result
